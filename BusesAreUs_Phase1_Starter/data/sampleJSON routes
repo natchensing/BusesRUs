@@ -1,0 +1,72 @@
+[
+  {
+    "Name": "MACDONALD/DOWNTOWN ",
+    "OperatingCompany": "CMBC",
+    "Patterns": [
+      {
+        "Direction": "EAST",
+        "Destination": "BURRARD STN",
+        "PatternNo": "EB3",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/002-EB3.kmz"
+        }
+      },
+      {
+        "Destination": "DOWNTOWN",
+        "Direction": "EAST",
+        "PatternNo": "EB1",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/002-EB1.kmz"
+        }
+      },
+      {
+        "Destination": "DOWNTOWN",
+        "Direction": "EAST",
+        "PatternNo": "EB2",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/002-EB2.kmz"
+        }
+      },
+    ],
+    "RouteNo": "002"
+  },
+  {
+      "Name": "MAIN/DOWNTOWN                  ",
+      "OperatingCompany": "CMBC",
+      "Patterns": [
+        {
+          "Destination": "DOWNTOWN",
+          "Direction": "NORTH",
+          "PatternNo": "NB1",
+          "RouteMap": {
+            "Href": "http://nb.translink.ca/geodata/trip/003-NB1.kmz"
+          }
+        },
+        {
+          "Destination": "DOWNTOWN",
+          "Direction": "NORTH",
+          "PatternNo": "NB1STN",
+          "RouteMap": {
+            "Href": "http://nb.translink.ca/geodata/trip/003-NB1STN.kmz"
+          }
+        },
+        {
+          "Destination": "MAIN",
+          "Direction": "SOUTH",
+          "PatternNo": "SB1",
+          "RouteMap": {
+            "Href": "http://nb.translink.ca/geodata/trip/003-SB1.kmz"
+          }
+        },
+        {
+          "Destination": "MAIN-MARINE DR STN",
+          "Direction": "SOUTH",
+          "PatternNo": "SB2",
+          "RouteMap": {
+            "Href": "http://nb.translink.ca/geodata/trip/003-SB2.kmz"
+          }
+        }
+      ],
+      "RouteNo": "003"
+      }
+    ]

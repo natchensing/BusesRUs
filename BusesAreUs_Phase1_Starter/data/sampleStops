@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "WB DAVIE ST FS BIDWELL ST",
+    "AtStreet": "BIDWELL ST",
+    "WheelchairAccess": 1,
+    "BayNo": "N",
+    "Latitude": 49.28646,
+    "Longitude": -123.14043,
+    "StopNo": 50001,
+    "OnStreet": "DAVIE ST",
+    "Routes": "C23",
+    "City": "VANCOUVER"
+  },
+  {
+    "Name": "EB BEACH AVE FS BURNABY ST",
+    "AtStreet": "BURNABY ST",
+    "WheelchairAccess": 1,
+    "BayNo": "N",
+    "Latitude": 49.28586,
+    "Longitude": -123.14268,
+    "StopNo": 50002,
+    "OnStreet": "BEACH AVE",
+    "Routes": "C21",
+    "City": "VANCOUVER"
+  },
+  {
+    "Name": "EB BEACH AVE FS CARDERO ST",
+    "AtStreet": "CARDERO ST",
+    "WheelchairAccess": 1,
+    "BayNo": "N",
+    "Latitude": 49.28286,
+    "Longitude": -123.14167,
+    "StopNo": 50003,
+    "OnStreet": "BEACH AVE",
+    "Routes": "C21",
+    "City": "VANCOUVER"
+  },
+     {
+       "Name": "EB DAVIE ST FS HOWE ST",
+       "AtStreet": "HOWE ST",
+       "WheelchairAccess": 1,
+       "BayNo": "N",
+       "Latitude": 49.27755,
+       "Longitude": -123.12698,
+       "StopNo": 50011,
+       "OnStreet": "DAVIE ST",
+       "Routes": "006, C23",
+       "City": "VANCOUVER"
+     }
+  ]
